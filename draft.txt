@@ -1,0 +1,92 @@
+# Plano Curricular para Especialização em Tecnologia Trilha de base (conceitos comuns para todas as especializações) (3 meses): 
+	- Orientação a Plataformas de tencologia 
+	- Gestão de artefatos de software: 
+        - Git Avançado 
+        - CI - Integração Contínua 
+        - CD - Entrega Contínua 
+	- Qualidade de software: 
+        - Testes automatizados 
+        - Testes de performance 
+        - Testes de segurança 
+	- Observabilidade e monitoramento: 
+        - Logging 
+        - Tracing 
+        - Métricas 
+	- Segurança em tecnologia da informação: 
+        - Segurança de aplicações 
+        - Segurança de infraestrutura 
+        - Boas práticas de segurança 
+	- Infraestrutura como código (IaC): 
+        - Terraform 
+        - Ansible 
+        - Docker 
+        - Kubernetes 
+	- Criação de produtos digitais e gestão de projetos: 
+        - O propósito do produto 
+        - Foco na solução de problemas e busca por valor 
+        - Metodologias Ágeis 
+        - Gestão de produtos digitais 
+        - UX/UI básico 
+	- Governança e conformidade: 
+        - Políticas de TI 
+        - Conformidade regulatória 
+        - Gestão de riscos 
+
+# Trilha específica Developer (3 meses): 4
+    - Fundamentos de programação: 
+        - Estruturas de dados avançadas 
+        - Algoritmos 
+        - Arquitetura de software 
+        - Padrões de codificação (clean code) 
+    - Bancos de dados: 
+        - SQL e NoSQL 
+        - Modelagem de dados 
+        - Otimização de consultas 
+    - APIs e serviços web: 
+        - RESTful APIs 
+        - GraphQL 
+        - Autenticação e autorização (OAuth, JWT) 
+    - Práticas avançadas de desenvolvimento: 
+        - Padrões de design de software 
+        - Refatoração de código 
+        - Code reviews e boas práticas de codificação 
+    - Testes avançados: 
+        - Testes unitários 
+        - Testes de integração 
+        - Testes de aceitação 
+
+# Trilha específica DevOps (3 meses): 
+    - Fundamentos de DevOps: 
+        - Cultura DevOps 
+        - Princípios e práticas DevOps 
+        - Orientação a testes, integração e entrega contínua 
+        - Monitoração e feedback contínuo 
+        - Troubleshooting e resolução de problemas 
+    - Automação de infraestrutura: 
+        - Provisionamento automatizado 
+        - Gerenciamento de configuração 
+    - Contêineres e orquestração: 
+        - Docker avançado 
+        - Kubernetes avançado 
+        
+# Trilha específica gestão em tecnologia (3 meses): 
+    - Liderança em tecnologia: 
+        - Habilidades de liderança 
+        - Gestão de equipes técnicas 
+        - Teambuilding 
+        - Formação e desenvolvimento de equipes 
+        - Tutoria e mentoria de talentos 
+        - Foco em resultados e produtividade como facilitadores 
+    - Estratégia de TI: 
+        - Alinhamento de TI com negócios 
+        - Planejamento estratégico de TI 
+    - Medindo resultados: 
+        - KPIs e métricas de desempenho 
+        - Análise de dados para tomada de decisão 
+        - OKRs 
+    - Governança de TI: 
+        - Frameworks de governança (COBIT, ITIL) 
+        - Gestão de riscos em TI 
+    - Gestão financeira em TI: 
+        - Orçamento e controle de custos 
+        - Análise de retorno sobre investimento (ROI)
