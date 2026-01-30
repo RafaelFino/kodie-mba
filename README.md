@@ -890,3 +890,75 @@ Este quadro apresenta a consolidação dos conteúdos, disciplinas e respectivas
 
 
 ---
+
+# 6. Perfil e Requisitos do Corpo Docente
+
+Esta seção define os requisitos de **conhecimento técnico, experiência prática e competências profissionais**
+esperadas dos mentores e professores responsáveis pelos módulos do curso.
+
+O curso adota uma abordagem **orientada ao mercado corporativo**, priorizando a vivência prática,
+a atuação profissional relevante e a capacidade de conectar teoria, prática e contexto organizacional.
+Não é exigida formação acadêmica específica, desde que o profissional demonstre domínio técnico
+e experiência compatível com os conteúdos ministrados.
+
+---
+
+## 6.1 Trilha Comum – Requisitos dos Mentores/Professores
+
+| Módulo | Conhecimentos Técnicos Essenciais | Experiência Profissional Relevante | Competências Esperadas |
+|------|----------------------------------|----------------------------------|-----------------------|
+| Orientação a Plataformas de Tecnologia | Arquitetura de sistemas, plataformas digitais, cloud, integração de serviços | Atuação no desenho, evolução ou operação de plataformas corporativas | Visão sistêmica, comunicação clara, capacidade de abstração |
+| Gestão de Artefatos de Software | Git avançado, CI/CD, automação de pipelines | Experiência em times que utilizam pipelines de integração e entrega contínua | Organização, foco em qualidade e rastreabilidade |
+| Qualidade de Software | Testes automatizados, testes não funcionais, qualidade de código | Vivência com QA, engenharia de software ou liderança técnica | Pensamento crítico, rigor técnico |
+| Observabilidade e Monitoramento | Logs, métricas, tracing, alertas | Atuação em operação, SRE ou sustentação de sistemas | Diagnóstico de problemas, ensino baseado em incidentes |
+| Segurança em TI | Segurança de aplicações, infraestrutura e práticas DevSecOps | Experiência com segurança, hardening, prevenção e resposta a incidentes | Mentalidade preventiva, responsabilidade técnica |
+| Infraestrutura como Código (IaC) | Terraform, Ansible, Docker, Kubernetes | Implementação e operação de ambientes automatizados | Padronização, clareza técnica |
+| Produtos Digitais e Gestão de Projetos | Agilidade, produto digital, UX básico, foco em valor | Atuação como PO, PM, líder técnico ou gestor | Facilitação, visão de negócio |
+| Governança e Conformidade | Políticas de TI, riscos, compliance, controles | Vivência com governança, auditoria ou conformidade | Visão institucional, clareza normativa |
+
+---
+
+## 6.2 Trilha de Especialização – Developer Back-end
+
+| Módulo | Conhecimentos Técnicos Essenciais | Experiência Profissional Relevante | Competências Esperadas |
+|------|----------------------------------|----------------------------------|-----------------------|
+| Fundamentos Avançados de Programação | Estruturas de dados, algoritmos, arquitetura, clean code | Desenvolvimento de sistemas reais em ambientes corporativos | Profundidade técnica, clareza conceitual |
+| Bancos de Dados | SQL, NoSQL, modelagem e performance | Uso de bancos de dados em produção | Capacidade de explicar decisões técnicas |
+| APIs e Serviços Web | REST, GraphQL, autenticação e autorização | Desenvolvimento e manutenção de APIs | Design de soluções, foco em segurança |
+| Práticas Avançadas de Desenvolvimento | Padrões de projeto, refatoração, testes avançados | Atuação como dev pleno ou sênior | Mentoria técnica, boas práticas |
+| Projeto Prático 1 – Backend Essencial | Arquitetura backend, versionamento, testes | Implementação de soluções completas | Orientação a projetos |
+| Projeto Prático 2 – Backend Avançado | Escalabilidade, segurança, observabilidade | Experiência em sistemas complexos | Visão arquitetural, liderança técnica |
+
+---
+
+## 6.3 Trilha de Especialização – DevOps / SRE
+
+| Módulo | Conhecimentos Técnicos Essenciais | Experiência Profissional Relevante | Competências Esperadas |
+|------|----------------------------------|----------------------------------|-----------------------|
+| Fundamentos de DevOps | Cultura DevOps, CI/CD, feedback contínuo | Atuação em times DevOps ou SRE | Visão colaborativa, pensamento sistêmico |
+| Automação de Infraestrutura | Provisionamento e configuração automatizada | Implementação de IaC em ambientes reais | Organização e padronização |
+| Contêineres e Orquestração | Docker, Kubernetes, escalabilidade | Operação de ambientes conteinerizados | Foco em confiabilidade |
+| Projeto Prático 1 – Pipeline DevOps | Pipelines CI/CD e automação | Implementação de pipelines funcionais | Troubleshooting |
+| Projeto Prático 2 – Ambiente SRE | Observabilidade, SLIs, SLOs, incidentes | Operação e melhoria de ambientes produtivos | Resiliência e análise crítica |
+
+---
+
+## 6.4 Trilha de Especialização – Gestão em Tecnologia
+
+| Módulo | Conhecimentos Técnicos Essenciais | Experiência Profissional Relevante | Competências Esperadas |
+|------|----------------------------------|----------------------------------|-----------------------|
+| Liderança em Tecnologia | Liderança, gestão de pessoas, desenvolvimento de equipes | Atuação como líder ou gestor de tecnologia | Comunicação, empatia |
+| Estratégia de TI | Planejamento estratégico, OKRs, indicadores | Participação em decisões estratégicas | Visão de negócio |
+| Governança de TI | COBIT, ITIL, riscos, compliance | Vivência com governança e controles | Responsabilidade institucional |
+| Gestão Financeira em TI | Orçamento, custos, ROI, priorização | Gestão financeira de iniciativas de TI | Tomada de decisão baseada em dados |
+| Projeto Prático 1 – Planejamento Estratégico | Estratégia e execução | Liderança de iniciativas estratégicas | Orientação a resultados |
+| Projeto Prático 2 – Governança e Resultados | Indicadores e geração de valor | Avaliação de resultados organizacionais | Visão sistêmica |
+
+---
+
+### Diretrizes Gerais para Atuação Docente
+
+- O mentor/professor deve possuir **experiência prática comprovada**
+- A vivência corporativa é elemento central do processo formativo
+- Espera-se atuação como **facilitador e orientador**, não apenas transmissor de conteúdo
+- Nos módulos de projeto, o mentor atua como **avaliador por competências**
