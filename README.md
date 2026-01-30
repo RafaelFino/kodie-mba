@@ -887,3 +887,72 @@ Este quadro apresenta a consolidação dos conteúdos, disciplinas e respectivas
 - As cargas horárias atendem às exigências para cursos de especialização lato sensu
 - Os projetos possuem caráter **aplicado e corporativo**
 - A avaliação do aluno considera desempenho técnico, participação e entregas práticas
+
+
+---
+
+# 6. Perfil e Requisitos do Corpo Docente
+
+Esta seção define o perfil acadêmico e profissional esperado dos docentes responsáveis por cada módulo do curso, garantindo aderência às Diretrizes Curriculares Nacionais (DCNs), qualidade pedagógica e alinhamento com práticas corporativas contemporâneas.
+
+---
+
+## 6.1 Trilha Comum – Corpo Docente
+
+| Módulo / Disciplina                           | Formação Acadêmica Mínima                         | Experiência Profissional Esperada                                                                 | Competências Docentes |
+|----------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------|
+| Orientação a Plataformas de Tecnologia        | Graduação em TI + Pós-graduação ou Mestrado       | Atuação em arquitetura de sistemas, plataformas ou cloud em ambientes corporativos                | Visão sistêmica, capacidade de abstração, comunicação estratégica |
+| Gestão de Artefatos de Software               | Graduação em TI + Especialização                  | Experiência prática com Git, CI/CD e pipelines em times corporativos                               | Ensino prático, automação, orientação a processos |
+| Qualidade de Software                         | Graduação em TI + Especialização                  | Atuação com testes automatizados, qualidade e engenharia de software                               | Rigor técnico, pensamento analítico |
+| Observabilidade e Monitoramento               | Graduação em TI                                   | Experiência em operação de sistemas, SRE, monitoramento e gestão de incidentes                     | Diagnóstico de problemas, ensino baseado em casos |
+| Segurança em Tecnologia da Informação         | Graduação em TI + Especialização                  | Atuação com segurança de aplicações, infraestrutura ou compliance                                  | Cultura de segurança, visão preventiva |
+| Infraestrutura como Código (IaC)              | Graduação em TI                                   | Experiência com Terraform, Docker, Kubernetes e automação de ambientes                              | Didática prática, orientação a boas práticas |
+| Criação de Produtos Digitais e Gestão Projetos| Graduação em TI ou Administração + Pós-graduação  | Atuação como PO, PM, líder técnico ou gestor de projetos                                           | Comunicação, facilitação, visão de negócio |
+| Governança e Conformidade                     | Graduação + Pós-graduação                         | Experiência com governança, compliance, riscos ou auditoria em TI                                  | Visão institucional, clareza normativa |
+
+---
+
+## 6.2 Trilha de Especialização – Developer Back-end
+
+| Módulo / Disciplina                        | Formação Acadêmica Mínima                   | Experiência Profissional Esperada                                                     | Competências Docentes |
+|------------------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------|----------------------|
+| Fundamentos Avançados de Programação     | Graduação em TI                             | Atuação como desenvolvedor pleno/sênior ou arquiteto de software                      | Profundidade técnica, clareza conceitual |
+| Bancos de Dados                          | Graduação em TI                             | Experiência com bancos SQL e NoSQL em sistemas de médio/grande porte                  | Modelagem, performance, didática prática |
+| APIs e Serviços Web                      | Graduação em TI                             | Desenvolvimento e manutenção de APIs corporativas                                     | Design de APIs, segurança |
+| Práticas Avançadas de Desenvolvimento   | Graduação em TI                             | Experiência com code review, padrões de projeto e testes                               | Mentoria técnica, qualidade de código |
+| Projeto Prático 1 – Backend Essencial   | Graduação em TI                             | Atuação prática em desenvolvimento backend                                            | Orientação a projetos, avaliação prática |
+| Projeto Prático 2 – Backend Avançado    | Graduação em TI                             | Experiência em arquitetura, segurança e testes avançados                               | Visão arquitetural, liderança técnica |
+
+---
+
+## 6.3 Trilha de Especialização – DevOps / SRE
+
+| Módulo / Disciplina                      | Formação Acadêmica Mínima                   | Experiência Profissional Esperada                                                      | Competências Docentes |
+|-----------------------------------------|---------------------------------------------|----------------------------------------------------------------------------------------|----------------------|
+| Fundamentos de DevOps                   | Graduação em TI                             | Atuação em times DevOps ou SRE em ambientes corporativos                                | Cultura DevOps, visão sistêmica |
+| Automação de Infraestrutura             | Graduação em TI                             | Experiência com IaC, automação e configuração de ambientes                              | Automação, padronização |
+| Contêineres e Orquestração              | Graduação em TI                             | Operação de ambientes Docker e Kubernetes em produção                                   | Escalabilidade, confiabilidade |
+| Projeto Prático 1 – Pipeline DevOps     | Graduação em TI                             | Implementação de pipelines CI/CD corporativos                                           | Orientação prática, troubleshooting |
+| Projeto Prático 2 – Ambiente SRE        | Graduação em TI                             | Atuação com observabilidade, incidentes e confiabilidade                                | Análise de incidentes, resiliência |
+
+---
+
+## 6.4 Trilha de Especialização – Gestão em Tecnologia
+
+| Módulo / Disciplina                               | Formação Acadêmica Mínima                         | Experiência Profissional Esperada                                                       | Competências Docentes |
+|--------------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------|
+| Liderança em Tecnologia                          | Graduação + Pós-graduação                         | Atuação como gestor, líder técnico ou head de tecnologia                                 | Liderança, desenvolvimento de pessoas |
+| Estratégia de TI                                 | Graduação + Pós-graduação                         | Planejamento estratégico de TI em organizações corporativas                              | Visão estratégica, análise crítica |
+| Governança de TI                                 | Graduação + Pós-graduação                         | Experiência com COBIT, ITIL, riscos e compliance                                          | Governança, visão institucional |
+| Gestão Financeira em TI                          | Graduação em Administração, TI ou Economia        | Gestão orçamentária, custos e investimentos em tecnologia                                | Análise financeira, tomada de decisão |
+| Projeto Prático 1 – Planejamento Estratégico     | Graduação + Pós-graduação                         | Liderança de iniciativas estratégicas em TI                                               | Orientação a projetos, avaliação |
+| Projeto Prático 2 – Governança e Resultados      | Graduação + Pós-graduação                         | Atuação com indicadores, governança e viabilidade financeira                              | Avaliação crítica, visão sistêmica |
+
+---
+
+## Observações Institucionais
+
+- É desejável que parte do corpo docente possua titulação de **mestre ou doutor**, conforme diretrizes institucionais
+- A experiência profissional relevante poderá ser considerada como diferencial formativo
+- Professores dos módulos de projeto devem possuir **experiência comprovada em orientação técnica ou gestão**
+- O corpo docente deve manter alinhamento com práticas atualizadas do mercado corporativo
