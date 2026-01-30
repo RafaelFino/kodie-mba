@@ -1,4 +1,5 @@
-kodie-mba - Plano Curricular Detalhado – Especialização em Tecnologia
+# kodie-mba
+# Plano Curricular Detalhado – Especialização em Tecnologia
 
 ## Visão Geral do Curso
 
