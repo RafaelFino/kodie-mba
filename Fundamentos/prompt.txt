@@ -1,0 +1,195 @@
+# Curso de tecnologia:
+
+## Requisitos do curso - prompt para geração de ementa
+### Duração: 1 Ano
+4 horas de aula por semana
+1 tarefa (código ou pesquisa) semanal
+3 grandes projetos, da metade do curso em diante. 2 projetos pequenos e 1 grande projeto final (TCC).
+
+### Necessidades: 
+
+Modelar o curso segundo os requisitos do Mec, para atender o que um curso técnico precisa ter.
+
+Distribuir de forma coerente os conteúdos de forma progressiva e com suas respectivas cargas horárias, objetivos e resultados de aprendizagem além de relacionar quais são os requisitos técnicos dos professores que irão ministrar cada módulo e quaios requisitos para os alunos ingressarem em cada módulo, considerando que os requisitos dos professores são focados em conhecimentos técnicos e não em curriculo (precisamos saber quais competências e experiências o professor precisa para ministrar cada módulo).
+Sugerir quais tarefas devem ser entregues em cada semana, considerando que o curso tem 1 ano de duração e 4 horas semanais de aula. Esse entregável pode ser uma pesquisa, um código, um projeto. Mas deve ser possível de ser feito com o conhecimento já apresentado e realizado em no máximo 4 horas, totalizando um investimento de tempo de cerca de 8 horas semanais (4 horas de aula + 4 horas de prática).
+
+Preciso de toda a ementa do curso, em formato Markdown, com os tópicos, sub-tópicos, objetivos de aprendizagem, resultados de aprendizagem, requisitos técnicos para professores e alunos e sugestões de tarefas semanais. Tabelas detalhando cada módulo, seus conteúdos, objetivos, resultados e requisitos.
+
+O gerado Texto deve ser objetivo, didático e claro, para que possa ser usado diretamente na criação do curso. Deve-se evitar um texto redundante, prolixo ou extenso demais.
+
+Evite gerar todo o conteúdo de uma só vez, divida em partes menores, começando pela ementa geral do curso, depois os módulos, tópicos, objetivos, resultados e requisitos.
+
+# Ementa Geral do Curso de Tecnologia
+
+## Fontes de referência:
+    https://github.com/RafaelFino/learn-ops-content
+    https://github.com/RafaelFino/learnops-api-python
+    https://github.com/RafaelFino/plataforma-tcc
+
+# Tópicos para uma base sólida de profissional de tecnologia:
+
+Fundamentos de tecnologia:
+    O que é um computador e q que ele faz
+    Quais são os componentes básicos de um computador
+    A História básicas que explica algumas coisas importantes do que temos hoje
+    O que é memória RAM
+    O que é um Storage
+    O que é uma CPU
+        Arquiteturas de CPU (X86,Arm e etc)
+        História, funcionamento básicos
+    Sistemas operacionais
+        O que são, oq fazem, a história até aqui e pq são como são
+        Arquiteturas dos principais: Windows, Linux, macOS, Android, iOS, Unix, BSD
+    O que é um servidor
+    O que é uma rede
+    O que é um DataCenter
+    O que é Virtualização
+
+Tipos de programas:
+    Scripts
+    Interpretados
+    Com Máquina Virtual
+    Compilados
+
+Linux:
+    O que é Linux
+    História do Linux
+    Distribuições mais comuns e suas diferenças
+        História do Debian, Ubuntu, CentOS, Fedora, ArchLinux
+        O que é um Window Manager, Desktop Environment e um Kernel
+        Sabores de Ubuntu:
+            Ubuntu Server
+            Ubuntu Desktop
+            Kubuntu
+            Xubuntu
+            Lubuntu
+    Estrutura de diretórios do Linux: 
+        /bin
+        /boot
+        /dev
+        /etc
+        /home
+        /lib
+        /media
+        /mnt
+        /opt
+        /proc
+        /root
+        /sbin
+        /srv
+        /tmp
+        /usr
+        /var
+    Permissões de arquivos e diretórios
+    Gerenciamento de pacotes (apt, yum, dnf, pacman)
+    Serviços e Daemons
+    Noções básicas de Shell Scripting
+    Gerenciamento de usuários e grupos
+    
+
+Terminal:
+    Diferença entre interpretadores de comandos e emulador de terminal
+    Operação básica do terminal:
+        ls
+        cd
+        mv
+        cp
+        rm
+        touch
+        cat
+        vim
+        top/htop
+        ps
+        grep
+        find
+        chmod
+        chown
+        curl / wget
+    Comandos básicos de navegação e manipulação de arquivos
+    Redirecionamento e Pipes
+    Editores de texto em terminal (vim e micro)
+
+    git:
+        O que é controle de versão
+        O que é git e sua história
+        O que é GitHub/GitLab/Bitbucket
+        Comandos básicos:
+            git init
+            git clone
+            git add
+            git commit
+            git push
+            git pull
+            git status
+            git branch
+            git checkout
+            git merge
+        Conceitos importantes:
+            Repositórios locais e remotos
+            Branches
+            Merges e Pull Requests
+  
+Código:
+    Variáveis e Alocação de memória:
+        Tipos:
+            Números, caracteres, strings e tipos complexos
+    
+    Algorítimos:
+        If/Else
+        Loops/Repetições
+        Funções
+        Estrutura básica de código        
+    
+    Estruturas de dados:
+        Estrutura básica de dados
+        Arrays
+        Listas e Tipos de listas
+        Mapas
+    Algorítimos de busca:
+        Notação de complexidade (Big O)
+    
+    Arquiteturas básicas de uma solução:
+        Onde ela acontece e onde as coisas ficam
+        O que é um servidor e conceitos básicos de rede
+        Como usar um Docker e por que isso vai te ajudar
+        O que é um servidor de aplicação
+        O que é um servidor de banco de dados
+        O que é um servidor de mensageria
+        O que é qlqr outro tipo de recurso: Noções de SaaS, PaaS, IaaS
+    
+    Bancos de dados:
+        Modelagem básica de dados
+        O que é SQL e noSQL
+        Como modelar algo
+        Como inserir dados lá
+        Como consultar seus dados
+        Como alterar seus dados
+        Como apagar seus dados
+
+    Projeto - CRUD: https://github.com/RafaelFino/plataforma-crud-python        
+    
+    Noções de Orietação a objeto:
+        Onde fica cada coisa na sua aplicação
+        Como segregar as coisas e estruturar seu código, onde colocar seus métodos
+        Noções de classes, heranças, interfaces
+        Afinal, oq é esse objeto q tanto falam?
+        DDD
+        SOLID
+
+    Projeto - Biblioteca: Modelar e codificar um sistema de biblioteca com OOP (cadastro de usuários, cadastro de acervos, empréstimos, devoluções)
+    
+    Arquitetura de serviços:
+        O que é um serviço
+        Noções de arquitetura de solução: Onde fica cada coisa
+        Como eles se conversam?
+    
+    Integrações entre serviços:
+        O que são APIs
+        REST e SOAP
+        Mensagerias
+        Arquiteturas sincronas e assincronas
+        Eventos
+        Cache
+        Modelos distribuídos
+    
+    Projeto final: O TCC: https://github.com/RafaelFino/plataforma-tcc
