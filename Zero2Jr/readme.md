@@ -1,4 +1,4 @@
-# Projeto Pedagógico do Curso Técnico em Tecnologia da Informação (EAD)
+# Kodia - Projeto Pedagógico do Curso Técnico em Tecnologia da Informação
 
 ## 1. Identificação do Curso
 - **Curso:** Técnico em Tecnologia da Informação

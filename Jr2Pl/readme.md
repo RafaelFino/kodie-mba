@@ -1,4 +1,4 @@
-# kodie-mba
+# kodie - Jr2Pl (MBA)
 # Plano Curricular Detalhado – Especialização em Tecnologia
 
 ## Visão Geral do Curso
